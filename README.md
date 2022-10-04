@@ -4,7 +4,7 @@
 ![PyPI - Python Version](https://img.shields.io/pypi/pyversions/recc-os?style=flat-square)
 ![GitHub](https://img.shields.io/github/license/bogonets/recc-os?style=flat-square)
 
-Recc Database
+Recc Object Storage
 
 ## License
 
