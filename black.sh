@@ -26,7 +26,7 @@ ARGS=(
     "--check"
     "--diff"
     "--color"
-    "--exclude=(.*_pb2(_grpc)?\.py(i)?$|/\.git|/\.venv)"
+    "--exclude=(/\.git|/\.venv)"
 )
 
 print_message "black ${ARGS[*]}"
