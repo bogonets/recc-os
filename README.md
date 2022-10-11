@@ -1,4 +1,4 @@
-# recc-stroage
+# recc-storage
 
 [![PyPI](https://img.shields.io/pypi/v/recc-storage?style=flat-square)](https://pypi.org/project/recc-storage/)
 ![PyPI - Python Version](https://img.shields.io/pypi/pyversions/recc-storage?style=flat-square)
