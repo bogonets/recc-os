@@ -2,7 +2,7 @@
 
 from unittest import IsolatedAsyncioTestCase
 
-from recc_os.storage import Storage
+from recc_storage.storage import Storage
 
 
 class BaseStorageTestCase(IsolatedAsyncioTestCase):

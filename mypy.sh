@@ -27,6 +27,6 @@ ARGS=("--config-file=${ROOT_DIR}/mypy.ini")
 print_message "mypy ${ARGS[*]}"
 
 "$ROOT_DIR/python" -m mypy "${ARGS[@]}" \
-    "$ROOT_DIR/recc_os/" \
+    "$ROOT_DIR/recc_storage/" \
     "$ROOT_DIR/tester/" \
     "$ROOT_DIR/setup.py"

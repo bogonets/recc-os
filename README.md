@@ -1,12 +1,12 @@
-# recc-os
+# recc-stroage
 
-[![PyPI](https://img.shields.io/pypi/v/recc-os?style=flat-square)](https://pypi.org/project/recc-os/)
-![PyPI - Python Version](https://img.shields.io/pypi/pyversions/recc-os?style=flat-square)
-![GitHub](https://img.shields.io/github/license/bogonets/recc-os?style=flat-square)
+[![PyPI](https://img.shields.io/pypi/v/recc-storage?style=flat-square)](https://pypi.org/project/recc-storage/)
+![PyPI - Python Version](https://img.shields.io/pypi/pyversions/recc-storage?style=flat-square)
+[![GitHub](https://img.shields.io/github/license/bogonets/recc-storage?style=flat-square)](https://github.com/bogonets/recc-storage)
 
 Recc Object Storage
 
 ## License
 
 See the [LICENSE](./LICENSE) file for details. In summary,
-**recc-os** is licensed under the **MIT license**.
+**recc-storage** is licensed under the **MIT license**.

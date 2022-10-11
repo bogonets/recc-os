@@ -4,7 +4,7 @@ from unittest import main
 
 from minio import S3Error
 
-from tester.case.base_storage_test_case import BaseStorageTestCase
+from tester.base_storage_test_case import BaseStorageTestCase
 
 
 class StorageTestCase(BaseStorageTestCase):
